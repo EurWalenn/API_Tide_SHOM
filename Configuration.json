@@ -1,0 +1,22 @@
+{"Configuration": [
+    {
+        "Acquisition_Line_Name": "Tide La Rochelle",
+        "Data_Format": "json",
+        "SHOM_ID": "34",
+        "Sources": "1",
+        "Measurement_Interval": "10",
+        "File_Name": "Tide_Data_La_Rochelle.dat",
+        "Export_Directory": "/home/guta/Python/Projets/API_SHOM/Resultats",
+        "Backup_Day": "50"
+    },
+    {
+        "Acquisition_Line_Name": "Test 2",
+        "Data_Format": "json",
+        "SHOM_ID": "6305",
+        "Sources": "1",
+        "Measurement_Interval": "10",
+        "File_Name": "Test.dat",
+        "Export_Directory": "/home/guta/Python/Projets/API_SHOM/Resultats",
+        "Backup_Day": "3"
+    }
+]}
