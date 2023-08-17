@@ -6,7 +6,7 @@
         "Sources": "1",
         "Measurement_Interval": "10",
         "File_Name": "Tide_Data_La_Rochelle.dat",
-        "Export_Directory": "/home/guta/Python/Projets/API_SHOM/Resultats",
+        "Export_Directory": "/Directory/Results",
         "Backup_Day": "50"
     },
     {
@@ -16,7 +16,7 @@
         "Sources": "1",
         "Measurement_Interval": "10",
         "File_Name": "Test.dat",
-        "Export_Directory": "/home/guta/Python/Projets/API_SHOM/Resultats",
+        "Export_Directory": "/Directory/Results",
         "Backup_Day": "3"
     }
 ]}
