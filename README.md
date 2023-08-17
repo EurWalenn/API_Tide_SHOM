@@ -20,6 +20,7 @@ The code is divided into several modules to enhance readability and maintenance.
 - API_Management.py: Contains functions to query and retrieve data from the API.
 - Log.py: Manages logging configuration to record messages and errors in a log file.
 - Configuration_Import.py: Handles the import of configuration parameters from a JSON file.
+- Configuration_Reading.py: Contains a function to read and extract specific elements from a JSON configuration file.
 - API_Request_Creation.py: Contains functions to generate API requests based on parameters.
 - Data_File_Writing.py: Contains functions to create data files from results.
 - API_Tide_SHOM.py: Entry point of the application, orchestrates the data retrieval and processing steps.
@@ -68,6 +69,7 @@ Le code est divisé en plusieurs modules pour améliorer la lisibilité et la ma
 - API_Management.py: Contient des fonctions pour interroger et récupérer des données depuis l'API.
 - Log.py: Gère la configuration du journal pour enregistrer les messages et erreurs dans un fichier de log.
 - Configuration_Import.py: Gère l'importation des paramètres de configuration depuis un fichier JSON.
+- Configuration_Reading.py: Contient une fonction permettant de lire et d'extraire des éléments spécifiques à partir d'un fichier de configuration JSON.
 - API_Request_Creation.py: Contient des fonctions pour générer des requêtes API en fonction des paramètres.
 - Data_File_Writing.py: Contient des fonctions pour créer des fichiers de données à partir des résultats.
 - API_Tide_SHOM.py: Point d'entrée de l'application, orchestre les étapes de récupération et de traitement des données.
